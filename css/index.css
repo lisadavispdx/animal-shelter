@@ -2,9 +2,26 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  text-align: center;
+}
+
 .column {
   float: left;
   width: 30%;
   padding: 10px;
   margin-left: 10px;
+}
+
+.contactMe {
+  text-align: center;
+}
+
+.container {
+  float: right;
+}
+
+img {
+  width: 400px;
+  height: 300px;
 }
